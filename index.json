@@ -1,0 +1,11 @@
+{
+  "org": "ibis-project",
+  "repo": "ibis-tutorial",
+  "versions": [
+    {
+      "commit": "17696929a318f23e21cb15c22babfadd36a7906f",
+      "tag": "",
+      "parsed_at": "2026-10-21T20:08:01.629591+00:00"
+    }
+  ]
+}
