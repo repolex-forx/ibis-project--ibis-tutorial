@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/ibis-project/ibis-tutorial/commit/17696929a318f23e21cb15c22babfadd36a7906f",
       "git:hexsha": "17696929a318f23e21cb15c22babfadd36a7906f",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/ibis-project/ibis-tutorial/commit/9a00d9daf1bd757415025de2953f7c9d7e778503",
